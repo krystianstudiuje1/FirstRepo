@@ -26,6 +26,8 @@ int main() {
         default:
             cout << "Bledny numer tygodnia!" << endl;
     }
+    cout << "TEST" << endl;
+    cout << "TEST BRANCH, First Branch" << endl;
     return 0;
 }
 
